@@ -1,0 +1,6 @@
+[Plugin]
+Module=really
+Loader=C
+Name=really
+Description=question everything
+Authors=voldyman
